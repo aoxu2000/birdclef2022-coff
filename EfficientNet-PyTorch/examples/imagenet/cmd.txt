@@ -1,0 +1,1 @@
+python main.py ../../transdata -a efficientnet-b3 --pretrained --batch-size 8
